@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PixelDev - Python Engineer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              'pixel-orange': '#F37E33',
+              'pixel-yellow': '#F9D71C',
+              'pixel-dark': '#111111',
+              'pixel-offwhite': '#F4F4F4',
+              'pixel-blue': '#3B82F6',
+            },
+            fontFamily: {
+              'press': ['"Press Start 2P"', 'cursive'],
+              'vt': ['"VT323"', 'monospace'],
+            },
+            boxShadow: {
+              'pixel': '4px 4px 0px 0px #111111',
+              'pixel-sm': '2px 2px 0px 0px #111111',
+              'pixel-lg': '8px 8px 0px 0px #111111',
+              'pixel-inset': 'inset 2px 2px 0px 0px #111111',
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      /* Smooth scrolling */
+      html {
+        scroll-behavior: smooth;
+      }
+      
+      /* Custom Scrollbar for that retro feel */
+      ::-webkit-scrollbar {
+        width: 12px;
+        background: #F37E33;
+        border-left: 2px solid #111;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #111;
+        border: 2px solid #F37E33;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #333;
+      }
+
+      /* Pixel Art Cursor */
+      body {
+        cursor: crosshair;
+      }
+      
+      .pixel-antialiasing-off {
+        image-rendering: pixelated;
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.1/",
+    "react": "https://aistudiocdn.com/react@^19.2.1",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.1/",
+    "lucide-react": "https://aistudiocdn.com/lucide-react@^0.555.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-pixel-orange text-pixel-dark font-vt">
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
