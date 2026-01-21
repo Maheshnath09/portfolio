@@ -2,7 +2,9 @@
 
 A retro-inspired portfolio website showcasing AI/ML and web development expertise with pixel-perfect design aesthetics.
 
-![Portfolio Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![React](https://img.shields.io/badge/React-19.2.1-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-blue) ![Vite](https://img.shields.io/badge/Vite-6.2.0-purple)
+[![Portfolio Preview](https://img.shields.io/badge/Status-Live-brightgreen)](https://portfolio-three-tawny-99.vercel.app) ![React](https://img.shields.io/badge/React-19.2.1-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-blue) ![Vite](https://img.shields.io/badge/Vite-6.2.0-purple)
+
+🌐 **Live Demo**: [https://portfolio-three-tawny-99.vercel.app](https://portfolio-three-tawny-99.vercel.app)
 
 ## ✨ Features
 
@@ -127,7 +129,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 **Email**: maheshnath2143@gmail.com  
-**Portfolio**: [Live Demo](https://your-portfolio-url.com)  
+**Portfolio**: [Live Demo](https://portfolio-three-tawny-99.vercel.app)  
 **GitHub**: [@Maheshnath09](https://github.com/Maheshnath09)
 
 ---
