@@ -127,7 +127,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 **Email**: maheshnath2143@gmail.com  
-**Portfolio**: [Live Demo]((https://portfolio-three-tawny-99.vercel.app/))  
+**Portfolio**: [Live Demo](https://portfolio-three-tawny-99.vercel.app)
 **GitHub**: [@Maheshnath09](https://github.com/Maheshnath09)
 
 ---
