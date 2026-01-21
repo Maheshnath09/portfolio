@@ -95,9 +95,10 @@ export const PROJECTS: Project[] = [
   },
   {
     id: '8',
-    title: 'Data Pipeline Agent',
-    description: 'AI-powered data processing pipeline that auto-cleans datasets, generates visualizations, and trains ML models with intelligent insights from Groq GPT-OSS 120B. Features SMOTE for class imbalance.',
-    tags: ['Python', 'FastAPI', 'Scikit-learn', 'Groq AI', 'Gradio', 'Docker'],
+    title: 'Multi-Agent Data Pipeline Builder',
+    description: 'Intelligent multi-agent AI system with 5 specialized agents (Orchestrator, Data Analyst, ML Engineer, Visualization, Insight) and RAG-powered recommendations using ChromaDB for context-aware data science automation.',
+    tags: ['Python', 'Gradio', 'Scikit-learn', 'ChromaDB', 'Groq AI', 'RAG'],
+    liveLink: 'https://maheshnath09-data-pipeline-agent.hf.space/',
     repoLink: 'https://github.com/Maheshnath09/data-pipeline-agent',
     thumbnailUrl: '/data-pipeline-thumb.png'
   },
