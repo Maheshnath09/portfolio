@@ -90,6 +90,7 @@ export const PROJECTS: Project[] = [
     title: 'Image Search Engine',
     description: 'Semantic image search powered by CLIP and FAISS. Supports text-to-image and image-to-image search across local datasets, COCO, Openverse, and Unsplash with a modern Streamlit UI.',
     tags: ['Python', 'FastAPI', 'CLIP', 'FAISS', 'Streamlit', 'Docker'],
+    liveLink: 'https://maheshnath09-image-search-engine.hf.space/',
     repoLink: 'https://github.com/Maheshnath09/image-search-engine',
     thumbnailUrl: '/image-search-thumb.png'
   },
