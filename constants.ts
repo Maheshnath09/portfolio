@@ -12,22 +12,22 @@ export const NAV_ITEMS: NavItem[] = [
 export const SKILL_CATEGORIES: SkillCategory[] = [
   {
     title: 'AI & ML',
-    skills: ['Python', 'TensorFlow', 'PyTorch', 'Scikit-learn', 'Keras', 'OpenCV', 'NLP', 'Computer Vision'],
+    skills: ['Agentic AI', 'Model Context Protocol (MCP)', 'LLMs (Llama 3/GPT-4)', 'RAG Pipelines', 'Multi-Agent Systems', 'Vector DBs (FAISS/Chroma)', 'LangChain/LlamaIndex', 'Computer Vision (CLIP)', 'PyTorch', 'Python'],
     icon: 'brain'
   },
   {
-    title: 'Web Dev',
-    skills: ['Django', 'FastAPI', 'Flask', 'React', 'TypeScript', 'Tailwind CSS', 'REST APIs', 'GraphQL'],
+    title: 'Backend & Web Engineering',
+    skills: ['FastAPI (Production)', 'Django/DRF & Flask', 'Microservices', 'REST APIs', 'API Development', 'System Design', 'AsyncIO/Concurrency', 'SaaS Application Dev', 'WebSockets/Real-time', 'Scalable Architecture', 'Next.js/React'],
     icon: 'globe'
   },
   {
     title: 'Data & DBs',
-    skills: ['PostgreSQL', 'Redis', 'MongoDB', 'Pandas', 'NumPy', 'SQLAlchemy', 'Airflow'],
+    skills: ['PostgreSQL', 'Mysql', 'Redis', 'Pandas', 'NumPy', 'SQLAlchemy', 'Airflow', 'firebase', 'supabase'],
     icon: 'database'
   },
   {
     title: 'Tools',
-    skills: ['Git', 'Docker', 'Kubernetes', 'AWS', 'Linux', 'CI/CD', 'Jira', 'Agile'],
+    skills: ['Git', 'Docker', 'Kubernetes', 'AWS', 'Linux', 'jenkins', 'CI/CD', 'Jira', 'Postman', 'swagger', 'Agile'],
     icon: 'tool'
   }
 ];
@@ -158,8 +158,12 @@ export const EDUCATION: EducationItem[] = [
 ];
 
 export const SOCIAL_LINKS = {
-  github: 'https://github.com',
-  linkedin: 'https://linkedin.com',
-  twitter: 'https://twitter.com',
+  github: 'https://github.com/Maheshnath09',
+  linkedin: 'https://www.linkedin.com/in/mahesh-nath-1aa36a259/',
+  twitter: 'https://x.com/Maheshnath_23',
+  huggingface: 'https://huggingface.co/Maheshnath09',
+  kaggle: 'https://www.kaggle.com/maheshnath09',
+  devto: 'https://dev.to/maheshnath09',
+  discord: 'https://discord.com/users/your-discord-id', // Update this with your Profile ID or Server Invite
   email: 'maheshnath2143@gmail.com'
 };
