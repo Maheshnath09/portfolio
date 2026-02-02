@@ -22,8 +22,8 @@ export const About: React.FC = () => {
                 <span className="font-bold text-pixel-orange text-2xl">Hi, I'm Mahesh.</span> I turn caffeine into clean, efficient code.
               </p>
               <p>
-                With a background in Computer Science and a passion for retro aesthetics, I build modern AI solutions that don't just work—they perform.
-                Whether it's training a neural network to recognize cats or building a high-frequency trading bot, I love solving complex puzzles.
+                With a background in Computer Science and a passion for retro aesthetics, I build future-proof systems that don't just work—they perform.
+                Whether it's orchestrating multi-agent AI pipelines or architecting real-time streaming backends, I thrive on solving the complex puzzles that power the next generation of software.
               </p>
               <div className="flex gap-2 flex-wrap pt-4">
                 {["Remote", "Freelance", "Full-time"].map(tag => (

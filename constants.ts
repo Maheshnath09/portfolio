@@ -143,17 +143,17 @@ export const PROJECTS: Project[] = [
 export const EDUCATION: EducationItem[] = [
   {
     id: '1',
-    degree: 'M.S. Computer Science (AI Specialization)',
-    institution: 'Tech University of Pixel Valley',
-    year: '2021 - 2023',
-    description: 'Thesis on "Optimizing Neural Networks for Low-Power Retro Gaming Consoles".'
+    degree: 'Diploma in Computer Engineering',
+    institution: 'Gujarat Technological University',
+    year: '2022 - 2025',
+    description: 'Mastered CS core: DSA, Operating Systems, and DBMS. Applied these fundamentals to architect scalable, high-performance AI & backend systems.'
   },
   {
     id: '2',
-    degree: 'B.S. Software Engineering',
-    institution: 'State Institute of Technology',
-    year: '2017 - 2021',
-    description: 'Graduated Summa Cum Laude. Lead developer for the university robotics club.'
+    degree: 'High school studies',
+    institution: 'Shree Mgvm',
+    year: '2020 - 2022',
+    description: 'Excelled in Math & Computer Science. Led the Robotics Club as Head Developer, establishing a rigorous foundation in engineering and problem-solving.'
   }
 ];
 
