@@ -163,6 +163,6 @@ export const SOCIAL_LINKS = {
   huggingface: 'https://huggingface.co/Maheshnath09',
   kaggle: 'https://www.kaggle.com/maheshnath09',
   devto: 'https://dev.to/maheshnath09',
-  discord: 'https://discord.com/users/your-discord-id', // Update this with your Profile ID or Server Invite
+  discord: 'https://discord.com/users/1400800877375389696',
   email: 'maheshnath2143@gmail.com'
 };
