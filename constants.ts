@@ -64,7 +64,6 @@ export const PROJECTS: Project[] = [
     title: 'Caching Proxy Server',
     description: 'High-performance HTTP caching proxy with in-memory and Redis backends. Features LRU eviction, real-time statistics, configurable TTL, and transparent proxy mode for API response caching.',
     tags: ['FastAPI', 'Python', 'Redis', 'Docker', 'LRU Cache'],
-    liveLink: 'https://caching-proxy-server.onrender.com/',
     repoLink: 'https://github.com/Maheshnath09/caching-proxy-server',
     thumbnailUrl: '/caching-proxy-thumb.png'
   },
