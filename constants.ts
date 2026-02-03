@@ -77,12 +77,12 @@ export const PROJECTS: Project[] = [
   },
   {
     id: '6',
-    title: 'Realtime Collaborative Whiteboard',
-    description: 'Miro-inspired whiteboard app with real-time drawing sync via WebSockets. Features live cursors, chat, role-based sharing, and drawing tools including shapes, text, and sticky notes.',
-    tags: ['React', 'FastAPI', 'WebSockets', 'TypeScript', 'PostgreSQL', 'Zustand'],
-    liveLink: 'https://realtime-collaborative-whiteboard-ebon.vercel.app/',
-    repoLink: 'https://github.com/Maheshnath09/realtime-collaborative-whiteboard',
-    thumbnailUrl: '/whiteboard-thumb.png'
+    title: 'Multi-Agent Data Pipeline Builder',
+    description: 'Intelligent multi-agent AI system with 5 specialized agents (Orchestrator, Data Analyst, ML Engineer, Visualization, Insight) and RAG-powered recommendations using ChromaDB for context-aware data science automation.',
+    tags: ['Python', 'Gradio', 'Scikit-learn', 'ChromaDB', 'Groq AI', 'RAG'],
+    liveLink: 'https://maheshnath09-data-pipeline-agent.hf.space/',
+    repoLink: 'https://github.com/Maheshnath09/data-pipeline-agent',
+    thumbnailUrl: '/data-pipeline-thumb.png'
   },
   {
     id: '7',
@@ -95,12 +95,12 @@ export const PROJECTS: Project[] = [
   },
   {
     id: '8',
-    title: 'Multi-Agent Data Pipeline Builder',
-    description: 'Intelligent multi-agent AI system with 5 specialized agents (Orchestrator, Data Analyst, ML Engineer, Visualization, Insight) and RAG-powered recommendations using ChromaDB for context-aware data science automation.',
-    tags: ['Python', 'Gradio', 'Scikit-learn', 'ChromaDB', 'Groq AI', 'RAG'],
-    liveLink: 'https://maheshnath09-data-pipeline-agent.hf.space/',
-    repoLink: 'https://github.com/Maheshnath09/data-pipeline-agent',
-    thumbnailUrl: '/data-pipeline-thumb.png'
+    title: 'Realtime Collaborative Whiteboard',
+    description: 'Miro-inspired whiteboard app with real-time drawing sync via WebSockets. Features live cursors, chat, role-based sharing, and drawing tools including shapes, text, and sticky notes.',
+    tags: ['React', 'FastAPI', 'WebSockets', 'TypeScript', 'PostgreSQL', 'Zustand'],
+    liveLink: 'https://realtime-collaborative-whiteboard-ebon.vercel.app/',
+    repoLink: 'https://github.com/Maheshnath09/realtime-collaborative-whiteboard',
+    thumbnailUrl: '/whiteboard-thumb.png'
   },
   {
     id: '9',
