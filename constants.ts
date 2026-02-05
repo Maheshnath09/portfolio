@@ -162,7 +162,7 @@ export const SOCIAL_LINKS = {
   linkedin: 'https://www.linkedin.com/in/mahesh-nath-1aa36a259/',
   twitter: 'https://x.com/Maheshnath_23',
   huggingface: 'https://huggingface.co/Maheshnath09',
-  kaggle: 'https://www.kaggle.com/maheshnath09',
+  kaggle: 'https://www.kaggle.com/maheshnath23',
   devto: 'https://dev.to/maheshnath09',
   discord: 'https://discord.com/users/1400800877375389696',
   email: 'maheshnath2143@gmail.com'
