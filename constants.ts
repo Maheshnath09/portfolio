@@ -125,6 +125,7 @@ export const PROJECTS: Project[] = [
     title: 'Daily Challenge App',
     description: 'Brutalist-designed daily challenge platform with streak tracking, points system, and global leaderboard. Features coding, logic, and life challenges with JWT auth.',
     tags: ['Next.js', 'FastAPI', 'PostgreSQL', 'Docker', 'JWT', 'APScheduler'],
+    liveLink: 'https://daily-challenge-app-pi.vercel.app/',
     repoLink: 'https://github.com/Maheshnath09/daily-challenge-app',
     thumbnailUrl: '/daily-challenge-thumb.png'
   },
